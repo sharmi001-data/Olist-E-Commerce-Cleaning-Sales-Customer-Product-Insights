@@ -6,7 +6,7 @@ The goal is to prepare raw data for further analysis by handling inconsistencies
 
 ---
 
-## 📌 **Project Overview**
+## **Project Overview**
 The Olist dataset contains multiple tables related to:
 - Orders  
 - Customers  
@@ -20,7 +20,7 @@ This project demonstrates **practical data cleaning techniques** used in real in
 
 ---
 
-## 🔧 **Key Cleaning Tasks Performed**
+## **Key Cleaning Tasks Performed**
 - Handling **missing values**  
 - Removing **duplicates**  
 - Correcting **datatype issues**  
@@ -33,7 +33,7 @@ This project demonstrates **practical data cleaning techniques** used in real in
 
 ---
 
-## 🛠️ **Tools & Libraries Used**
+## **Tools & Libraries Used**
 - Python  
 - Pandas  
 - NumPy  
@@ -41,12 +41,12 @@ This project demonstrates **practical data cleaning techniques** used in real in
 
 ---
 
-## 📁 **Project File**
+##  **Project File**
 - `Project on e-commerce(Olist).ipynb` — contains all cleaning steps with explanations
 
 ---
 
-## 🎯 **Objective**
+## **Objective**
 To transform the raw Olist dataset into a **clean, structured, and analysis-ready** form that can be used for:
 - EDA  
 - Visualization  
@@ -55,5 +55,5 @@ To transform the raw Olist dataset into a **clean, structured, and analysis-read
 
 ---
 
-## 👩‍💻 **Author**
+## **Author**
 **Sharmistha Das**
