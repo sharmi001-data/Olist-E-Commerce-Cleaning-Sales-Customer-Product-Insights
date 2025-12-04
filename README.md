@@ -42,7 +42,7 @@ This project demonstrates **practical data cleaning techniques** used in real in
 ---
 
 ##  **Project File**
-- `Project on e-commerce(Olist).ipynb` — contains all cleaning steps with explanations
+- `Ecommerce_Dataset_Cleaning.ipynb` — contains all cleaning steps with explanations
 
 ---
 
